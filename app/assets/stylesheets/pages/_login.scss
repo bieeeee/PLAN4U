@@ -1,3 +1,8 @@
+#new_user {
+  width: 40%;
+  margin: 0 auto;
+}
+
 .login-container {
   margin: 0 auto;
   width: 50vw;
@@ -8,7 +13,11 @@
     margin-bottom: 46px;
   }
 
-  .form-control {
-    width: 80%;
+  .btn {
+    width: 100%;
   }
+
+  // .form-control {
+  //   width: 80%;
+  // }
 }
