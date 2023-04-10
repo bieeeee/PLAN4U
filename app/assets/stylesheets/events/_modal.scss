@@ -1,3 +1,10 @@
+.modal {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 .modal-left-container {
   background-color: #ffe6e6;
 }
