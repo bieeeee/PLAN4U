@@ -17,6 +17,8 @@ PLAN4U will automatically create a seating chart for your event based on your gu
 - **Automatic RSVP Updates**: Automatically track and update guest RSVP responses.
 - **Automatic Guest Seating Chart**: Generate guest seating charts effortlessly.
 
+## Demo
+[Video](https://www.youtube.com/watch?t=1766&v=3jZFHTANuRQ&feature=youtu.be)
 
 ## Screenshots
 
